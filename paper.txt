@@ -1,0 +1,16 @@
+Introduction of technology
+What technology did the team choose?
+Provide a good introduction to what the chosen technology is.
+Why did the team choose it? (in other words, why does the tech matter?).
+
+Applications of the technology
+Provide at least two real-world examples using the chosen technology. Provide the examples in detail so people can understand the contexts well.
+Provide the complexity or social challenges that are observed in the application contexts. Why do the situations that use the chosen technology matter? What makes it difficult to use the chosen tech well? 
+
+Critical discussion of the technology and its applications
+What social implications does the technology have? Any political or social concerns? Any innate harms or risks?
+How can we look at the technology and its applications from different ethical lenses? Depending on the ethical lens, how do its social impacts change? How can you interpret the use of technology in social contexts differently depending on ethical lenses? 
+What are your future recommendations for using the technology in a less harmful way? Are any technological or social strategies possible? Any policy-level recommendations?
+
+
+Sources
