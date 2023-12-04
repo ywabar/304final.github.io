@@ -184,11 +184,17 @@ h2 {
 }
 
 .text img {
-    width: 100%;
+    width: 50%;
     height: 300px;
     margin-left: auto;
     margin-right: auto;
     object-position: 100%;
     object-fit: cover;
     border-radius: 30px;
+}
+
+.iframe {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 50%;
 }
