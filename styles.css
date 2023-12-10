@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background: lightgray;
 }
 
 html {
@@ -7,11 +8,12 @@ html {
 }
 
 #navbar {
-    background-color: rgb(212, 212, 212);
+    background-color: rgb(199, 199, 199);
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: rgb(73, 73, 73);
 
 
 }
@@ -99,7 +101,7 @@ h2 {
 #sectionchooser nav ul li a {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.699);
-    background-color: rgb(212, 212, 212);
+    background-color: rgba(102, 102, 102, 0.514);
     display: inline-flex;
     width: 200px;
     text-align: center;
@@ -125,7 +127,6 @@ h2 {
 }
 
 .text {
-    width: 90%;
     padding: 20px;
     justify-content: center;
     display: flex;
@@ -133,6 +134,8 @@ h2 {
     align-items: flex-start;
     font-style: normal;
     padding-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
 
 }
 
@@ -173,7 +176,8 @@ h2 {
 }
 
 #textbody {
-    width: 85%;
+    min-width: 500px;
+    max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -200,4 +204,6 @@ h2 {
     margin-right: auto;
     margin-left: auto;
     max-width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
